@@ -13,7 +13,8 @@ board attached to a Raspberry Pi.  To get things up and running:
 * sudo python setup.py install
 * pip install web.py
 * python tempi.py or run it as a service from cron
-'''
+
+```
 pi@raspberrypi:~/Adafruit_Python_MCP9808/examples $ python tempi.py
 http://0.0.0.0:8080/
 192.168.1.17:41900 - - [08/Jan/2017 23:33:43] "HTTP/1.1 GET /" - 200 OK
@@ -21,4 +22,4 @@ http://0.0.0.0:8080/
 192.168.1.84:37244 - - [08/Jan/2017 23:34:08] "HTTP/1.1 GET /favicon.ico" - 200 OK
 192.168.1.20:59474 - - [08/Jan/2017 23:34:33] "HTTP/1.1 GET /" - 200 OK
 192.168.1.20:59474 - - [08/Jan/2017 23:34:33] "HTTP/1.1 GET /favicon.ico" - 200 OK
-'''
+```
