@@ -1,7 +1,7 @@
 
 
 ##This is a web service for reading terperature readings off an MCP9808
-board attached to a Raspberry Pi.  
+##board attached to a Raspberry Pi.  
 
 ![alt tag](https://raw.githubusercontent.com/hasherati/tempi/master/annimation.gif)
 
