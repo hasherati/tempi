@@ -1,7 +1,11 @@
-# tempi
+
 
 This is a web service for reading terperature readings off an MCP9808
-board attached to a Raspberry Pi.  To get things up and running:
+board attached to a Raspberry Pi.  
+
+![alt tag](https://raw.githubusercontent.com/hasherati/tempi/master/annimation.gif)
+
+To get things up and running:
 
 * Enable I2C in raspi-config and reboot
 * Wire it up per https://learn.adafruit.com/assets/19770
