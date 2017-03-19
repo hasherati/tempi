@@ -17,7 +17,7 @@ To get things up and running:
 * sudo python setup.py install
 * pip install web.py
 * cd ..; cd tempi
-* python tempi.py or run it as a service from cron
+* sudo python tempi.py or run it as a service from cron
 
 ```
 pi@raspberrypi:~/Adafruit_Python_MCP9808/examples $ python tempi.py
