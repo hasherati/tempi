@@ -12,9 +12,11 @@ To get things up and running:
 * sudo apt-get install build-essential python-dev python-pip python-smbus git
 * sudo pip install RPi.GPIO
 * git clone https://github.com/adafruit/Adafruit_Python_MCP9808.git
+* git clone https://github.com/hasherati/tempi.git
 * cd Adafruit_Python_MCP9808
 * sudo python setup.py install
 * pip install web.py
+* cd ..; cd tempi
 * python tempi.py or run it as a service from cron
 
 ```
